@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">IMTao</string>
+    <string-array name="main_menu">
+        <item>飞机票</item>
+        <item>住酒店</item>
+        <item>去旅游</item>
+        <item>周边游</item>
+        <item>买门票</item>
+        <item>火车票</item>
+        <item>汽车票</item>
+        <item>领里程</item>
+    </string-array>
+    <string-array name="second_menu">
+        <item>机场接送</item>
+        <item>娱乐景点</item>
+        <item>全球旅行</item>
+        <item>证券服务</item>
+        <item>国际机票</item>
+        <item>wifi区域</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find_main_travel">旅行资讯</string>
+    <string name="find_main_square">广场动态</string>
+    <string name="ind_main_hotwind">热点地带</string>
+    <string name="find_main_way">边走边买</string>
+    <string name="online_2">分享精彩游</string>
+    <string name="online_1">旅行直播</string>
+    <string name="me_2">教你玩世界</string>
+    <string name="me_1">游历智囊</string>
+    <string name="partner_2">一起才好玩</string>
+    <string name="partner1">结伴而行</string>
+
+</resources>
